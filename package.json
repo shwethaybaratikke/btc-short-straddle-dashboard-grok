@@ -1,0 +1,15 @@
+{
+  "name": "btc-short-straddle-dashboard",
+  "version": "1.0.0",
+  "description": "BTC Short Straddle Dashboard - Deribit live data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
